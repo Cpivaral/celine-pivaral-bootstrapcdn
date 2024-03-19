@@ -1,0 +1,23 @@
+body {
+    background:#c1dab5;
+}
+.navbar {
+    background:#556b2f !important;
+}
+.navbar-brand {
+    color: white;
+}
+.nav-item a {
+    color: #c1dab5 !important;
+}
+nav ul li {
+    text-align: center;
+}
+h1, h2 {
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+div {
+    background: #556b2f;
+}
